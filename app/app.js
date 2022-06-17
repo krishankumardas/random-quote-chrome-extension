@@ -7,7 +7,7 @@ window.onload = function(){
 const options = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': 'c40540d1c0msh8628052740f59f9p15381bjsn946fc56c5402',
+		'X-RapidAPI-Key': '/*Enter Your API Key Here*/',
 		'X-RapidAPI-Host': 'quotes15.p.rapidapi.com'
 	}
 };
